@@ -39,7 +39,7 @@
 ### 1. Клонировать репозиторий
 
 ```bash
-git clone https://github.com/maximDprogram/Predictive_Maintenance_NASA_CMAPSS
+git clone https://github.com/maximDprogram/Predictive-Maintenance-NASA-CMAPSS
 cd Predictive_Maintenance_NASA_CMAPSS
 ```
 
