@@ -40,7 +40,7 @@
 
 ```bash
 git clone https://github.com/maximDprogram/Predictive-Maintenance-NASA-CMAPSS
-cd Predictive_Maintenance_NASA_CMAPSS
+cd Predictive-Maintenance-NASA-CMAPSS
 ```
 
 ### 2. Запуск
