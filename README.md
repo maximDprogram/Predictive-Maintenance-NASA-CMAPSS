@@ -73,3 +73,7 @@ Predictive_Maintenance_NASA_CMAPSS/
 ## Источники
 
 * **NASA CMAPSS dataset:** CMAPSS Jet Engine Simulated Data
+
+---
+
+Predictive Maintenance — NASA CMAPSS создан в учебных целях для демонстрации применения классических алгоритмов машинного обучения
