@@ -39,8 +39,8 @@
 ### 1. Клонировать репозиторий
 
 ```bash
-git clone https://github.com/maximDprogram/Predictive_Maintenance_NASA_CMAPSS
-cd Predictive_Maintenance_NASA_CMAPSS
+git clone https://github.com/maximDprogram/Predictive-Maintenance-NASA-CMAPSS
+cd Predictive-Maintenance-NASA-CMAPSS
 ```
 
 ### 2. Запуск
@@ -56,7 +56,6 @@ python main.py
 ## 📂 Структура проекта
 ```
 Predictive_Maintenance_NASA_CMAPSS/
-├─ 📂 data/                   # Данные
 ├─ 📂 model/                  # Сохранённая модель
 │   └─ rf_model_fd001.pkl
 ├─ 📂 results/                # Графики, отчёты
@@ -74,3 +73,7 @@ Predictive_Maintenance_NASA_CMAPSS/
 ## Источники
 
 * **NASA CMAPSS dataset:** CMAPSS Jet Engine Simulated Data
+
+---
+
+Predictive Maintenance — NASA CMAPSS создан в учебных целях для демонстрации применения классических алгоритмов машинного обучения
